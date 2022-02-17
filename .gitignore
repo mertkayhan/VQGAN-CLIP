@@ -17,3 +17,7 @@ steps/
 # Files
 output.png
 steps.mp4
+
+.venv/*
+.DS_STORE
+output/*
